@@ -1,0 +1,16 @@
+[user]
+    name = Erich Douglass
+    email = erich.douglass@gmail.com
+
+[alias]
+    co = checkout
+    st = status
+    lg = log --graph --date=relative
+
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+
+[push]
+	default = current
