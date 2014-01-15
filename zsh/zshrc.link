@@ -13,6 +13,7 @@ fpath=(/usr/local/share/zsh-completions $fpath)
 
 # Aliases
 alias ll="ls -alh"
+alias git="hub"
 
 # Git aliases
 alias gl="git log --graph"
